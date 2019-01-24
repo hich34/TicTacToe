@@ -1,5 +1,7 @@
 class Rooter
 
+attr_accessor :controller
+
   def initialize
     @controller =  Controller.new
   end #ainsi, un "Router.new" lancé par app.rb va créer automatique une instance "@controller"

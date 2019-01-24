@@ -5,8 +5,8 @@ class Model
 attr_accessor :game_hash, :player1, :player2
 
 def initialize(players)
-	@player1 = Player.new(players[0])
-	@player2 = Player.new(players[1])
+	@player1 = Player.new(players[0], true)
+	@player2 = Player.new(players[1], false)
 	
 end
 
