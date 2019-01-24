@@ -8,4 +8,5 @@ require 'controller'
 require 'model'
 require 'view'
 
-Rooter.new.perform
+Rooter.new.perform #demande des prenom et initialisation du board
+				#affichage du board et demande de jouer*
