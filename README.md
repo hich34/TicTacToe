@@ -1,4 +1,10 @@
-# TicTacToe
+Projet Morpion Game 
+
+Charles Dutheil || Hicham Abouinan
+
+
+
+Etapes à suivre : 
 
 
 start,
@@ -61,23 +67,6 @@ damier renvoi position des pions
 
 
 
-   ----------------------------------
-   |          |++++++++++|oooooooooo|
-   |          |++++++++++|oooooooooo|
-   |          |++++++++++|oooooooooo|
-   |          |++++++++++|oooooooooo|
-   |          |++++++++++|oooooooooo|
-   ----------------------------------
-   |          |          |          |
-   |          |          |          |
-   |          |          |          |
-   |          |          |          |
-   |          |          |          |
-   ----------------------------------
-   |          |          |          |
-   |          |          |          |
-   |          |          |          |
-   |          |          |          |
-   |          |          |          |
+
    ----------------------------------
 
