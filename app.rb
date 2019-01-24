@@ -4,7 +4,7 @@ Bundler.require
 #Permet d'utiliser les classes des fichiers dans app.rb
 $:.unshift File.expand_path("./../lib", __FILE__) #plus besoin de préciser le path exact
 require 'rooter'
-require 'Controller'
+require 'controller'
 require 'model'
 require 'view'
 
